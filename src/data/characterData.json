@@ -39,7 +39,7 @@
         "hair": "",
         "name": "Bilbo Baggins",
         "wikiUrl": "http://lotr.wikia.com//wiki/Balbo_Baggins",
-        "imgUrl": "https://static.wikia.nocookie.net/heroes-and-villain/images/7/7e/Bilbo_BOFA_12.png/revision/latest?cb=20190320192007"
+        "imgUrl": "https://static.wikia.nocookie.net/heroes-and-villain/images/7/7e/Bilbo_BOFA_12.png"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfc15",
@@ -53,7 +53,7 @@
         "hair": "Brown",
         "name": "Frodo Baggins",
         "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins",
-        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/3/32/Frodo_%28FotR%29.png/revision/latest?cb=20221006065757"
+        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/3/32/Frodo_%28FotR%29.png"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfea0",
@@ -67,7 +67,7 @@
         "hair": "Grey, later white",
         "name": "Gandalf",
         "wikiUrl": "http://lotr.wikia.com//wiki/Gandalf",
-        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/8/8d/Gandalf-2.jpg/revision/latest/scale-to-width-down/1000?cb=20130209172436"
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfd81",
@@ -81,7 +81,7 @@
         "hair": "Uncertain (book), Blonde (films)",
         "name": "Legolas",
         "wikiUrl": "http://lotr.wikia.com//wiki/Legolas",
-        "imgUrl": "https://i2.wp.com/middle-earth.xenite.org/files/2015/10/cute-legolas.jpg?fit=555%2C400&ssl=1"
+        "imgUrl": "https://i2.wp.com/middle-earth.xenite.org/files/2015/10/cute-legolas.jpg"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfd0d",
@@ -109,6 +109,6 @@
         "name": "Éowyn",
         "race": "Men",
         "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89owyn",
-        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/6/69/%C3%89owyn_of_Rohan_%2802%29.jpg/revision/latest?cb=20210604082652"
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/%C3%89owyn_with_sword.jpg"
     }
 ]
